@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-17T18:18:13.835Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="ABDJzqdGho74O_9mBygP" version="20.8.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-01-17T18:24:54.726Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="4JnBQvr4B-_S_X131-h2" version="20.8.5" type="github" pages="4">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1120" dy="-343" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -385,7 +385,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gg17uAuB2bL-8LW6y9lc" name="Página-2">
-    <mxGraphModel dx="1120" dy="-343" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1120" dy="-309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="NUqxxVerFkx9y87lDyha-0" />
         <mxCell id="NUqxxVerFkx9y87lDyha-1" parent="NUqxxVerFkx9y87lDyha-0" />
@@ -423,7 +423,7 @@
           <mxGeometry x="244" y="1230.5" width="646.6666666666666" height="100" as="geometry" />
         </mxCell>
         <mxCell id="8A9vrrkWSmD-82M5Jxp4-20" value="" style="strokeColor=#FFFFFF;fillColor=#BAC8D3;fontSize=18;strokeWidth=2;fontFamily=Helvetica;html=1;opacity=60;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
-          <mxGeometry x="890.6666666666666" y="930.5" width="647" height="100" as="geometry" />
+          <mxGeometry x="890.67" y="930.5" width="799.33" height="100" as="geometry" />
         </mxCell>
         <mxCell id="8A9vrrkWSmD-82M5Jxp4-21" value="" style="strokeColor=#FFFFFF;fillColor=#BAC8D3;fontSize=18;strokeWidth=2;fontFamily=Helvetica;html=1;opacity=90;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
           <mxGeometry x="890.6666666666666" y="1030.5" width="646.6666666666666" height="100" as="geometry" />
@@ -434,38 +434,11 @@
         <mxCell id="8A9vrrkWSmD-82M5Jxp4-23" value="" style="strokeColor=#FFFFFF;fillColor=#BAC8D3;fontSize=18;strokeWidth=2;fontFamily=Helvetica;html=1;opacity=90;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
           <mxGeometry x="890.6666666666666" y="1230.5" width="646.6666666666666" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="8A9vrrkWSmD-82M5Jxp4-35" value="Cierre de caja&lt;br&gt;Tarea: Desarrollar &lt;br&gt;Transacción de Cierre de Caja&lt;br&gt;Donde: Core" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
+        <mxCell id="8A9vrrkWSmD-82M5Jxp4-35" value="Cierre de caja&lt;br&gt;Tarea: Desarrollar &lt;br&gt;Transacción de Cierre de Caja&lt;br&gt;Donde: Core" style="rounded=1;fillColor=#66B2FF;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
           <mxGeometry x="260" y="1035.5" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="8A9vrrkWSmD-82M5Jxp4-36" value="" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
-          <mxGeometry x="920.004761904762" y="955.5" width="127" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="8A9vrrkWSmD-82M5Jxp4-37" value="Reporte de cuadre de caja" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
-          <mxGeometry x="530" y="1040" width="145.35" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="8A9vrrkWSmD-82M5Jxp4-38" value="" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
-          <mxGeometry x="715.9047619047619" y="1255.5" width="127" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="8A9vrrkWSmD-82M5Jxp4-42" value="" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
-          <mxGeometry x="1161.4149659863945" y="1055.5" width="127" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="8A9vrrkWSmD-82M5Jxp4-43" value="" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
-          <mxGeometry x="1372.5714285714284" y="955.5" width="127" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="8A9vrrkWSmD-82M5Jxp4-45" value="" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
-          <mxGeometry x="1161.4149659863945" y="1255.5" width="127" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="8A9vrrkWSmD-82M5Jxp4-49" value="" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
-          <mxGeometry x="940.2585034013605" y="1255.5" width="127" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="8A9vrrkWSmD-82M5Jxp4-50" value="" style="rounded=1;fillColor=#23445D;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
-          <mxGeometry x="1372.5714285714284" y="1155.5" width="127" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="8A9vrrkWSmD-82M5Jxp4-77" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=3;strokeColor=#0C343D;fontFamily=Helvetica;html=1;" parent="NUqxxVerFkx9y87lDyha-1" source="8A9vrrkWSmD-82M5Jxp4-45" target="8A9vrrkWSmD-82M5Jxp4-50" edge="1">
-          <mxGeometry x="6.448979591836746" y="830.5" width="131.97278911564624" height="100" as="geometry">
-            <mxPoint x="6.448979591836746" y="930.5" as="sourcePoint" />
-            <mxPoint x="138.421768707483" y="830.5" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="8A9vrrkWSmD-82M5Jxp4-37" value="Reporte de cuadre de caja&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Tarea: Desarrollar&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Transacción de Cuadre de Caja&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Donde: Core" style="rounded=1;fillColor=#66B2FF;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
+          <mxGeometry x="460" y="1040.5" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8A9vrrkWSmD-82M5Jxp4-85" value="" style="group" parent="NUqxxVerFkx9y87lDyha-1" vertex="1" connectable="0">
           <mxGeometry x="243" y="900" width="646.6666666666666" height="40" as="geometry" />
@@ -481,6 +454,21 @@
         </mxCell>
         <mxCell id="PLUYg9wnXDt5H5ee4bgZ-0" value="Todos las ventanillas deben pasar el dinero a bóveda.&lt;br&gt;Iniciar bóveda desde el fit." style="strokeColor=#FFFFFF;fillColor=#BAC8D3;fontSize=18;strokeWidth=2;fontFamily=Helvetica;html=1;opacity=60;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
           <mxGeometry x="242.67" y="940.5" width="647" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NjtOf66xX-kEH3B9_qpR-0" value="Opciones de Bóveda&lt;br&gt;Tarea: Desarrollar &lt;br&gt;Transacciones de Bóveda&lt;br&gt;Donde: Core" style="rounded=1;fillColor=#66B2FF;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="NUqxxVerFkx9y87lDyha-1">
+          <mxGeometry x="270" y="1135.5" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NjtOf66xX-kEH3B9_qpR-1" value="ATM - Bóveda&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Tarea: Desarrollar&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Transacción de Bóveda - ATM&lt;br&gt;Transacción de ATM - Bóveda&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Donde: Core" style="rounded=1;fillColor=#66B2FF;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="NUqxxVerFkx9y87lDyha-1">
+          <mxGeometry x="910" y="945.5" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NjtOf66xX-kEH3B9_qpR-2" value="Reportes ATMS&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Tarea: Desarrollar&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Transacción de Reporteria&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Donde: Core" style="rounded=1;fillColor=#66B2FF;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="NUqxxVerFkx9y87lDyha-1">
+          <mxGeometry x="1100" y="945.5" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NjtOf66xX-kEH3B9_qpR-3" value="Transmitir Información&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Tarea: Desarrollar&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Motor. Microservicio &lt;br&gt;Swtrans - Financiero&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Donde: Mantenimiento" style="rounded=1;fillColor=#66B2FF;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="NUqxxVerFkx9y87lDyha-1">
+          <mxGeometry x="1290" y="945.5" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NjtOf66xX-kEH3B9_qpR-4" value="Actualizar Información&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Tarea: Desarrollar&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Modificar columnas Swtrans&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Donde: Mantenimiento -AS" style="rounded=1;fillColor=#66B2FF;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="NUqxxVerFkx9y87lDyha-1">
+          <mxGeometry x="1480" y="945.5" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
