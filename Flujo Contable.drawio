@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-17T22:19:10.692Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="583NXr_JYTaoQnSaOqtv" version="20.8.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-01-23T21:29:09.334Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="e9lKzxaAOt-6OvSKTJXC" version="20.8.10" type="github" pages="4">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1120" dy="-343" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1104" dy="-360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -385,12 +385,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gg17uAuB2bL-8LW6y9lc" name="Página-2">
-    <mxGraphModel dx="1002" dy="-395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1120" dy="-343" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="NUqxxVerFkx9y87lDyha-0" />
         <mxCell id="NUqxxVerFkx9y87lDyha-1" parent="NUqxxVerFkx9y87lDyha-0" />
         <mxCell id="8A9vrrkWSmD-82M5Jxp4-0" value="CONTABILIDAD" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0;spacingBottom=8;spacingRight=0;spacingLeft=83;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
-          <mxGeometry x="154" y="850.5" width="1086" height="80" as="geometry" />
+          <mxGeometry x="154" y="850.5" width="966" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8A9vrrkWSmD-82M5Jxp4-1" value="&lt;font style=&quot;font-size: 14px&quot;&gt;SALDOS DE LA 11 AL MODULO 3&lt;/font&gt;" style="strokeColor=#BAC8D3;fillColor=#23445D;fontSize=24;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;fontColor=#FFFFFF;fontStyle=0" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
           <mxGeometry x="154" y="930.5" width="50" height="499.5" as="geometry" />
@@ -408,73 +408,79 @@
           <mxGeometry x="204" y="1130.5" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="8A9vrrkWSmD-82M5Jxp4-14" value="" style="strokeColor=#FFFFFF;fillColor=#BAC8D3;fontSize=18;strokeWidth=2;fontFamily=Helvetica;html=1;opacity=90;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
-          <mxGeometry x="244" y="1030.5" width="996" height="100" as="geometry" />
+          <mxGeometry x="244" y="1030.5" width="876" height="100" as="geometry" />
         </mxCell>
         <mxCell id="8A9vrrkWSmD-82M5Jxp4-15" value="" style="strokeColor=#FFFFFF;fillColor=#BAC8D3;fontSize=18;strokeWidth=2;fontFamily=Helvetica;html=1;opacity=60;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
-          <mxGeometry x="244" y="1130.5" width="996" height="100" as="geometry" />
+          <mxGeometry x="244" y="1130.5" width="876" height="100" as="geometry" />
         </mxCell>
         <mxCell id="8A9vrrkWSmD-82M5Jxp4-35" value="Cierre de caja&lt;br&gt;Tarea: Desarrollar &lt;br&gt;Transacción de Cierre de Caja&lt;br&gt;Donde: Core&lt;br&gt;Tiempo: 2 semanas" style="rounded=1;fillColor=#66B2FF;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
           <mxGeometry x="260" y="1035.5" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="8A9vrrkWSmD-82M5Jxp4-37" value="Reporte de cuadre de caja&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Tarea: Desarrollar&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Transacción de Cuadre de Caja&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Donde: Core&lt;br&gt;Tiempo: 1 semana" style="rounded=1;fillColor=#66B2FF;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
+        <mxCell id="8A9vrrkWSmD-82M5Jxp4-37" value="Reporte de cuadre de caja&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Tarea: Desarrollar&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Transacción de Cuadre de Caja&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Donde: Core&lt;br&gt;Tiempo: 2 semana" style="rounded=1;fillColor=#66B2FF;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
           <mxGeometry x="460" y="1040" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PLUYg9wnXDt5H5ee4bgZ-0" value="" style="strokeColor=#FFFFFF;fillColor=#BAC8D3;fontSize=18;strokeWidth=2;fontFamily=Helvetica;html=1;opacity=60;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
-          <mxGeometry x="242.67" y="930" width="997.33" height="100.5" as="geometry" />
+          <mxGeometry x="242.67" y="930" width="877.33" height="100.5" as="geometry" />
         </mxCell>
-        <mxCell id="NjtOf66xX-kEH3B9_qpR-0" value="Transacciones de Bóveda&lt;br&gt;Tarea: Desarrollar &lt;br&gt;Transacciones de Bóveda&lt;br&gt;Donde: Core&lt;br&gt;Tiempo: -" style="rounded=1;fillColor=#99FFCC;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="NUqxxVerFkx9y87lDyha-1">
-          <mxGeometry x="260" y="1135.5" width="180" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="NjtOf66xX-kEH3B9_qpR-1" value="Ventanilla - ATM - Bóveda&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Tarea: Desarrollar&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Transacción de Bóveda - ATM&lt;br&gt;Transacción de ATM - Bóveda&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Donde: Core&lt;br&gt;Tiempo: 2 semanas" style="rounded=1;fillColor=#66B2FF;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="NUqxxVerFkx9y87lDyha-1">
+        <mxCell id="NjtOf66xX-kEH3B9_qpR-1" value="Ventanilla - ATM - Bóveda&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Tarea: Desarrollar&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Transacción de Bóveda - ATM&lt;br&gt;Transacción de ATM - Bóveda&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Donde: Core&lt;br&gt;Tiempo: 3 semanas" style="rounded=1;fillColor=#66B2FF;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
           <mxGeometry x="660" y="1040" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="NjtOf66xX-kEH3B9_qpR-2" value="Reportes ATMS&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Tarea: Desarrollar&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Transacción de Reporteria&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Donde: Mnatenimiento" style="rounded=1;fillColor=#66B2FF;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="NUqxxVerFkx9y87lDyha-1">
-          <mxGeometry x="260" y="1450" width="180" height="80" as="geometry" />
+        <mxCell id="NjtOf66xX-kEH3B9_qpR-3" value="Transmitir Información&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Tarea: Desarrollar&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Motor. Microservicio &lt;br&gt;Swtrans - Financiero&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Donde: Mantenimiento&lt;br&gt;Tiempo: 4 semanas&amp;nbsp;" style="rounded=1;fillColor=#66B2FF;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
+          <mxGeometry x="460" y="936.5" width="180" height="89.5" as="geometry" />
         </mxCell>
-        <mxCell id="NjtOf66xX-kEH3B9_qpR-3" value="Transmitir Información&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Tarea: Desarrollar&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Motor. Microservicio &lt;br&gt;Swtrans - Financiero&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Donde: Mantenimiento&lt;br&gt;Tiempo: 3 semanas&amp;nbsp;" style="rounded=1;fillColor=#66B2FF;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="NUqxxVerFkx9y87lDyha-1">
-          <mxGeometry x="460" y="940.5" width="180" height="80" as="geometry" />
+        <mxCell id="NjtOf66xX-kEH3B9_qpR-5" value="Capacitaciones de Bóveda&lt;br&gt;Tarea: Capacitación&lt;br&gt;Transacciones de Bóveda&lt;br&gt;Donde: Ventanillas" style="rounded=1;fillColor=#CC99FF;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
+          <mxGeometry x="460" y="1135.5" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="NjtOf66xX-kEH3B9_qpR-5" value="Capacitaciones de Bóveda&lt;br&gt;Tarea: Capacitación&lt;br&gt;Transacciones de Bóveda&lt;br&gt;Donde: Ventanillas" style="rounded=1;fillColor=#CC99FF;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="NUqxxVerFkx9y87lDyha-1">
-          <mxGeometry x="860" y="1140" width="180" height="90" as="geometry" />
+        <mxCell id="NjtOf66xX-kEH3B9_qpR-6" value="Capacitaciones de Ventanilla&lt;br&gt;Tarea: Capacitación&lt;br&gt;Transacciones de Ventanilla&lt;br&gt;Donde: Ventanillas" style="rounded=1;fillColor=#CC99FF;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
+          <mxGeometry x="260" y="1140" width="180" height="79.5" as="geometry" />
         </mxCell>
-        <mxCell id="NjtOf66xX-kEH3B9_qpR-6" value="Capacitaciones de Ventanilla&lt;br&gt;Tarea: Capacitación&lt;br&gt;Transacciones de Ventanilla&lt;br&gt;Donde: Ventanillas" style="rounded=1;fillColor=#CC99FF;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="NUqxxVerFkx9y87lDyha-1">
-          <mxGeometry x="860" y="1045.25" width="180" height="79.5" as="geometry" />
+        <mxCell id="NjtOf66xX-kEH3B9_qpR-7" value="API Financiera&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Tarea: Desarrollar&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Afectación Financiero&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Donde: Core&lt;br&gt;Tiempo: 3 semana" style="rounded=1;fillColor=#66B2FF;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
+          <mxGeometry x="660" y="936.5" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NjtOf66xX-kEH3B9_qpR-7" value="API Financiera&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Tarea: Desarrollar&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Afectación Financiero&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Donde: Core&lt;br&gt;Tiempo: 2 semana" style="rounded=1;fillColor=#66B2FF;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="NUqxxVerFkx9y87lDyha-1">
-          <mxGeometry x="660" y="940.5" width="180" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="NjtOf66xX-kEH3B9_qpR-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;SYSCARD&lt;/font&gt;" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="NUqxxVerFkx9y87lDyha-1">
+        <mxCell id="NjtOf66xX-kEH3B9_qpR-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;SYSCARD&lt;/font&gt;" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
           <mxGeometry x="204" y="1230.5" width="40" height="99.5" as="geometry" />
         </mxCell>
-        <mxCell id="NjtOf66xX-kEH3B9_qpR-9" value="" style="strokeColor=#FFFFFF;fillColor=#BAC8D3;fontSize=18;strokeWidth=2;fontFamily=Helvetica;html=1;opacity=90;" vertex="1" parent="NUqxxVerFkx9y87lDyha-1">
-          <mxGeometry x="244" y="1230.5" width="996" height="100" as="geometry" />
+        <mxCell id="NjtOf66xX-kEH3B9_qpR-9" value="" style="strokeColor=#FFFFFF;fillColor=#BAC8D3;fontSize=18;strokeWidth=2;fontFamily=Helvetica;html=1;opacity=90;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
+          <mxGeometry x="244" y="1230.5" width="876" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="NjtOf66xX-kEH3B9_qpR-11" value="Sincronizar Horario&lt;br&gt;Tarea: Desarrollar&lt;br&gt;Sincronizar Horario &lt;br&gt;Fitbank - Syscard&lt;br&gt;Donde: Medios de Pago&lt;br&gt;Tiempo: 3 semanas" style="rounded=1;fillColor=#66B2FF;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="NUqxxVerFkx9y87lDyha-1">
+        <mxCell id="NjtOf66xX-kEH3B9_qpR-11" value="Sincronizar Horario&lt;br&gt;Tarea: Desarrollar&lt;br&gt;Sincronizar Horario &lt;br&gt;Fitbank - Syscard&lt;br&gt;Donde: Medios de Pago&lt;br&gt;Tiempo: 5 semanas" style="rounded=1;fillColor=#66B2FF;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
           <mxGeometry x="260" y="1235.5" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="NjtOf66xX-kEH3B9_qpR-12" value="Talend Extraccion de DATA&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Tarea: Desarrollar&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Afectación Financiero&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Donde: Core&lt;br&gt;Tiempo: 3 semanas" style="rounded=1;fillColor=#66B2FF;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="NUqxxVerFkx9y87lDyha-1">
-          <mxGeometry x="260" y="940.5" width="180" height="80" as="geometry" />
+        <mxCell id="NjtOf66xX-kEH3B9_qpR-12" value="Talend Extraccion de DATA&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Tarea: Desarrollar&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Afectación Financiero&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Donde: Core&lt;br&gt;Tiempo: 3 semanas" style="rounded=1;fillColor=#66B2FF;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
+          <mxGeometry x="260" y="936.5" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NjtOf66xX-kEH3B9_qpR-13" value="Modificación Cierre&lt;br&gt;Tarea: Desarrollar&lt;br&gt;Fitbank envía fecha al Syscard&lt;br&gt;Donde: Mantenimiento&lt;br&gt;Tiempo: 1 semana" style="rounded=1;fillColor=#66B2FF;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="NUqxxVerFkx9y87lDyha-1">
-          <mxGeometry x="450" y="1235.5" width="180" height="90" as="geometry" />
+        <mxCell id="NjtOf66xX-kEH3B9_qpR-13" value="Modificación Cierre&lt;br&gt;Tarea: Desarrollar&lt;br&gt;Fitbank envía fecha al Syscard&lt;br&gt;Donde: Mantenimiento&lt;br&gt;Tiempo: 3 semana" style="rounded=1;fillColor=#66B2FF;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
+          <mxGeometry x="460" y="1235.5" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="NjtOf66xX-kEH3B9_qpR-15" value="&lt;font style=&quot;font-size: 14px&quot;&gt;QA&lt;/font&gt;" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="NUqxxVerFkx9y87lDyha-1">
+        <mxCell id="NjtOf66xX-kEH3B9_qpR-15" value="&lt;font style=&quot;font-size: 14px&quot;&gt;QA&lt;/font&gt;" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
           <mxGeometry x="204" y="1330" width="40" height="99.5" as="geometry" />
         </mxCell>
-        <mxCell id="NjtOf66xX-kEH3B9_qpR-16" value="" style="strokeColor=#FFFFFF;fillColor=#BAC8D3;fontSize=18;strokeWidth=2;fontFamily=Helvetica;html=1;opacity=90;" vertex="1" parent="NUqxxVerFkx9y87lDyha-1">
-          <mxGeometry x="244" y="1330" width="996" height="100" as="geometry" />
+        <mxCell id="NjtOf66xX-kEH3B9_qpR-16" value="" style="strokeColor=#FFFFFF;fillColor=#BAC8D3;fontSize=18;strokeWidth=2;fontFamily=Helvetica;html=1;opacity=90;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
+          <mxGeometry x="244" y="1330" width="876" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="NjtOf66xX-kEH3B9_qpR-17" value="Pruebas Contables&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Tarea: Test&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Donde: Mantenimiento&lt;br&gt;Tiempo: 2 semanas" style="rounded=1;fillColor=#66B2FF;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="NUqxxVerFkx9y87lDyha-1">
-          <mxGeometry x="652" y="1240.25" width="180" height="80" as="geometry" />
+        <mxCell id="NjtOf66xX-kEH3B9_qpR-17" value="Pruebas Contables&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Tarea: Test&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Donde: Mantenimiento&lt;br&gt;Tiempo: 3 semanas" style="rounded=1;fillColor=#66B2FF;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
+          <mxGeometry x="660" y="1240.25" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NjtOf66xX-kEH3B9_qpR-18" value="Certificación&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Tarea: QA&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Donde: Mantenimiento&amp;nbsp;&lt;br&gt;2 Meses" style="rounded=1;fillColor=#66B2FF;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="NUqxxVerFkx9y87lDyha-1">
+        <mxCell id="NjtOf66xX-kEH3B9_qpR-18" value="Certificación&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Tarea: QA&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Donde: Mantenimiento&amp;nbsp;&lt;br&gt;2 Meses" style="rounded=1;fillColor=#66B2FF;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
           <mxGeometry x="260" y="1340" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hm0Za9nu2-Oow3rg7xMH-1" value="Tiempo: 10 Semanas&lt;br&gt;Recursos: 1" style="rounded=1;fillColor=#99FFCC;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="NUqxxVerFkx9y87lDyha-1">
+          <mxGeometry x="880" y="930.5" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Hm0Za9nu2-Oow3rg7xMH-4" value="Tiempo: 7 Semanas&lt;br&gt;Recursos: 1" style="rounded=1;fillColor=#99FFCC;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="NUqxxVerFkx9y87lDyha-1">
+          <mxGeometry x="880" y="1030.5" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Hm0Za9nu2-Oow3rg7xMH-5" value="Tiempo: 11 Semanas&lt;br&gt;Recursos: 1" style="rounded=1;fillColor=#99FFCC;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="NUqxxVerFkx9y87lDyha-1">
+          <mxGeometry x="880" y="1235.25" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Hm0Za9nu2-Oow3rg7xMH-6" value="Tiempo: 2 meses&lt;br&gt;Recursos: 1" style="rounded=1;fillColor=#99FFCC;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="NUqxxVerFkx9y87lDyha-1">
+          <mxGeometry x="880" y="1335" width="180" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="ZPFlBW90KP8krExQLAtz" name="Página-3">
-    <mxGraphModel dx="1120" dy="-343" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1104" dy="-360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="E76UDmFxeTw11BlgjUJG-0" />
         <mxCell id="E76UDmFxeTw11BlgjUJG-1" parent="E76UDmFxeTw11BlgjUJG-0" />
@@ -732,7 +738,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Zn_2Z8tf90bOjVSdfm4l" name="Página-4">
-    <mxGraphModel dx="1120" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1104" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
