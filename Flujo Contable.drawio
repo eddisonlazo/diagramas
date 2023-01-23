@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-23T21:29:09.334Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="e9lKzxaAOt-6OvSKTJXC" version="20.8.10" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-01-23T21:55:11.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="7r9JQ27A9vdWH8AG6iiG" version="20.8.10" type="github" pages="4">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1104" dy="-360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -458,7 +458,7 @@
         <mxCell id="NjtOf66xX-kEH3B9_qpR-16" value="" style="strokeColor=#FFFFFF;fillColor=#BAC8D3;fontSize=18;strokeWidth=2;fontFamily=Helvetica;html=1;opacity=90;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
           <mxGeometry x="244" y="1330" width="876" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="NjtOf66xX-kEH3B9_qpR-17" value="Pruebas Contables&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Tarea: Test&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Donde: Mantenimiento&lt;br&gt;Tiempo: 3 semanas" style="rounded=1;fillColor=#66B2FF;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
+        <mxCell id="NjtOf66xX-kEH3B9_qpR-17" value="Pruebas de &lt;br&gt;Integración y Contables&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Tarea: Test&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Donde: Mantenimiento&lt;br&gt;Tiempo: 4 semanas" style="rounded=1;fillColor=#66B2FF;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
           <mxGeometry x="660" y="1240.25" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NjtOf66xX-kEH3B9_qpR-18" value="Certificación&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Tarea: QA&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Donde: Mantenimiento&amp;nbsp;&lt;br&gt;2 Meses" style="rounded=1;fillColor=#66B2FF;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" parent="NUqxxVerFkx9y87lDyha-1" vertex="1">
@@ -470,7 +470,7 @@
         <mxCell id="Hm0Za9nu2-Oow3rg7xMH-4" value="Tiempo: 7 Semanas&lt;br&gt;Recursos: 1" style="rounded=1;fillColor=#99FFCC;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="NUqxxVerFkx9y87lDyha-1">
           <mxGeometry x="880" y="1030.5" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Hm0Za9nu2-Oow3rg7xMH-5" value="Tiempo: 11 Semanas&lt;br&gt;Recursos: 1" style="rounded=1;fillColor=#99FFCC;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="NUqxxVerFkx9y87lDyha-1">
+        <mxCell id="Hm0Za9nu2-Oow3rg7xMH-5" value="Tiempo: 12 Semanas&lt;br&gt;Recursos: 1" style="rounded=1;fillColor=#99FFCC;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="NUqxxVerFkx9y87lDyha-1">
           <mxGeometry x="880" y="1235.25" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Hm0Za9nu2-Oow3rg7xMH-6" value="Tiempo: 2 meses&lt;br&gt;Recursos: 1" style="rounded=1;fillColor=#99FFCC;strokeColor=none;strokeWidth=2;fontFamily=Helvetica;html=1;gradientColor=none;" vertex="1" parent="NUqxxVerFkx9y87lDyha-1">
